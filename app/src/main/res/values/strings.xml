@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <color name="gray">#1C1A1C</color>
+    <color name="orange">@android:color/holo_orange_light</color>
+    <color name="purple">#BC82FE</color>
+    <string name="searchResult">Search Result</string>
+    <string name="err">Invalid address</string>
+    <string name="fetch">Fetching Weather</string>
+</resources>
